@@ -1,0 +1,17 @@
+{
+    "name": "vishalxtyagi/php-ghost-wall",
+    "description": "php-ghost-wall is a robust security package for Laravel applications designed to provide stealthy and powerful protection against tampering and unauthorized access. By leveraging advanced monitoring, code integrity checks, and secure communication channels, php-ghost-wall ensures that your PHP codebase remains secure and tamper-proof.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vishalxtyagi\\PhpGhostWall\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vishal Tyagi"
+        }
+    ],
+    "require": {}
+}

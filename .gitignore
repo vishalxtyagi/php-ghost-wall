@@ -1,0 +1,51 @@
+# Composer
+/vendor
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+
+# PHP-CS-Fixer
+.php_cs.cache
+
+# PhpStorm
+.idea
+
+# Visual Studio Code
+.vscode
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Node modules (if you're using any JavaScript tools)
+/node_modules
+
+# Laravel (if you're testing the package in a Laravel environment)
+/public/hot
+/public/storage
+/storage/*.key
+.env
+.env.backup
+Homestead.json
+Homestead.yaml
+
+# Log files
+*.log
+
+# Cached files
+*.cache
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Build files
+/build
+
+# Coverage reports
+/coverage
